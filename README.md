@@ -13,7 +13,7 @@ Containers fanboy. I do **Golang**, **Rustlang**, **TypeScript** and __Elixir__ 
 - [Twitter](https://twitter.com/MarcelMonfort)
 - [Mastodon](https://rage.love/@papey)
 
-## Stats, FTW
+## Stats, FTW 📊
 
 Thanks to [Github-Readme-Stats](https://github.com/anuraghazra/github-readme-stats)
 
