@@ -4,7 +4,7 @@
 
 ## About me 🥸
 
-Containers fanboy. I do **Golang**, **Rustlang**, **TypeScript** and __Elixir__ stuff.
+Containers fanboy 🚢. I do **Golang** 🐹, **Rustlang** 🦀, **TypeScript** 📦 and __Elixir__ 💧 stuff.
 
 ## Find me over the 🌐
 
