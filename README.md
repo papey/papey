@@ -2,9 +2,9 @@
 
 **Dev and Ops**, currently working @[Bearstech](https://bearstech.com) 🐻, on [Factory](https://github.com/factorysh) 🏭
 
-## About me 🥸
+## About me 🤙
 
-Containers fanboy. I do **Golang**, **Rustlang**, **TypeScript** and __Elixir__ stuff.
+Containers fanboy 🚢. I do **Golang** 🐹, **Rustlang** 🦀, **TypeScript** 📦, **Elixir** 💧 and **Ruby** 💎 stuff.
 
 ## Find me over the 🌐
 
