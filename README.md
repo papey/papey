@@ -1,6 +1,6 @@
 # Hi, i'm Wilfried 👋
 
-**Dev and Ops**, currently working @[Bearstech](https://bearstech.com) 🐻, on [Factory](https://github.com/factorysh) 🏭
+**Dev doing Ops, Ops doing Dev**. Fullstacking [@Doctolib](https://github.com/doctolib). I like programming languages.
 
 ## About me 🤙
 
