@@ -17,6 +17,6 @@ Containers fanboy 🚢. I do **Golang** 🐹, **Rustlang** 🦀, **TypeScript** 
 
 Thanks to [Github-Readme-Stats](https://github.com/anuraghazra/github-readme-stats)
 
-![Papey's Github Stats](https://github-readme-stats.vercel.app/api?username=papey&show_icons=true&theme=gruvbox)
+![Papey's Github Stats](https://github-readme-stats.vercel.app/api?username=papey&show_icons=true&theme=solarized-light)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papey&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papey&theme=solarized-light)
