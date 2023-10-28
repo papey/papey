@@ -19,4 +19,4 @@ Thanks to [Github-Readme-Stats](https://github.com/anuraghazra/github-readme-sta
 
 ![Papey's Github Stats](https://github-readme-stats.vercel.app/api?username=papey&show_icons=true&theme=rose_pine)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papey&theme=solarized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papey&theme=rose_pine)
