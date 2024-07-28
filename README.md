@@ -4,13 +4,13 @@
 
 ## About me 🤙
 
-Containers fanboy 🚢. I do **Golang** 🐹, **Rustlang** 🦀, **TypeScript** 📦, **Elixir** 💧 and **Ruby** 💎 stuff.
+I do **Golang** 🐹, **Rustlang** 🦀, **TypeScript** 📦, **Elixir** 💧 and **Ruby** 💎 stuff.
 
 ## Find me over the 🌐
 
 - [Home](https://papey.fr)
 - [Blog](https://blog.papey.fr)
-- [Twitter](https://twitter.com/MarcelMonfort)
+- [X](https://x.com/MarcelMonfort)
 - [Mastodon](https://rage.love/@papey)
 
 ## Stats, FTW 📊
