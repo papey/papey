@@ -2,15 +2,10 @@
 
 **Dev doing Ops, Ops doing Dev**. Fullstacking [@Doctolib](https://github.com/doctolib). I like programming languages.
 
-## About me 🤙
-
-I do **Golang** 🐹, **Rustlang** 🦀, **TypeScript** 📦, **Elixir** 💧 and **Ruby** 💎 stuff.
-
 ## Find me over the 🌐
 
 - [Home](https://papey.fr)
 - [Blog](https://blog.papey.fr)
-- [X](https://x.com/MarcelMonfort)
 - [Mastodon](https://rage.love/@papey)
 
 ## Stats, FTW 📊
